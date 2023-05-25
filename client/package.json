@@ -43,5 +43,5 @@
     "gh-pages": "^5.0.0",
     "http-proxy-middleware": "^0.19.1"
   },
-  "homepage": "http://sangbinnam.github.io/index.html"
+  "homepage": "."
 }
